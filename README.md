@@ -1,3 +1,4 @@
 # Netflix-Data-Analysis
-This repository aims to provide analysis of Netflix TV Shows and Movies, how it compares with other Streaming Partners
-The first part of the Report contains the data processing and cleaning, if you want to read the analysis please scroll to the end.
+This repository aims to provide analysis of Netflix TV Shows and Movies, how it compares with it's biggest competitor Amazon Prime.
+I have uploaded a PDF which contains the analysis.
+I have also uploaded python notebook and also the powerbi file.
